@@ -9,4 +9,4 @@ def func(n:int) -> list:
         print(res.index(j)+1, end='\t')
         print(*j, sep='\t')
 
-func(15)
+func(5)
